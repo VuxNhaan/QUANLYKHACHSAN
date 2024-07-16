@@ -9,8 +9,6 @@
 * [Cài đặt](#Cài-đặt)
 * [Môi trường](#Môi-trường)
 * [Tài liệu tham khảo](#Tài-liệu-tham-khảo)
-* [Bugs và các vấn đề](#Bugs-và-các-vấn-đề)
-* [Ảnh chụp màn hình](#Ảnh-chụp-màn-hình)
 * [Tác giả](#Tác-giả)
 * [Giấy phép](#Giấy-phép)
 
@@ -26,7 +24,6 @@
 * Báo cáo 
 
 ## Cài đặt
-
 
 **1. Chỉnh sửa connection string**
 
